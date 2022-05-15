@@ -1,6 +1,0 @@
-<?php
-
-
-    /**
-     cuman buat testing
-     **/
